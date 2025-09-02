@@ -17,7 +17,9 @@ The Market Rules Playbook provides:
 - **Examples**: Positive and negative examples for each rule template.  
 - **Dispute Framework**: Checklist-driven system for audits and post-mortems.  
 
-  
+
+## 📂 Structure
+https://github.com/vipindra/Market-Rules-Playbook/blob/main/market_rules_playbook.md
 
 ## 🚀 How to Use  
 1. Start with a **category template** (e.g., Politics, Crypto, Sports).  
